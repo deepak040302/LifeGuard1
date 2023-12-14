@@ -1,0 +1,10 @@
+gunicorn
+flask
+cv2
+pickle
+imutils
+sklearn
+scikit-learn
+tensorflow
+joblib
+numpy
