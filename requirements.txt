@@ -107,7 +107,7 @@ selenium
 semver
 Send2Trash
 six
-sklearn
+scikit-learn
 smmap
 sniffio
 sortedcontainers
